@@ -4,7 +4,7 @@
   
 <h1 style="color:blue;">we are strong</h1>
 <h2>Balatike kham koro</h2>
-<h3>Text Input</h3>
+
 
 <form>
   First name:<br>
