@@ -6,8 +6,7 @@
 <h2>Balatike kham koro</h2>
 <h2>your name please 
 
-<form action="/action_page.php">
-First name:<br>
+
 <input type=name="firstname">
 <br>
 Last name:<br>
