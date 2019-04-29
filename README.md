@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h2>HTML Images</h2>
-<p>HTML images are defined with the img tag:</p>
+<h2>all goods</h2>
+<p>hope you are doing well:</p>
 
 </body>
 </html>
