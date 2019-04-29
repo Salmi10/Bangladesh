@@ -1,6 +1,7 @@
 # Salam Walaikum
 <html>
 <body>
+  SELECT * FROM Customers;
   
 <h1 style="color:blue;">we are strong</h1>
 <h2>Balatike kham koro</h2>
