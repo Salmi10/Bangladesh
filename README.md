@@ -8,10 +8,10 @@
 
 <form action="/action_page.php">
 First name:<br>
-<input type="text" name="firstname">
+<input type=name="firstname">
 <br>
 Last name:<br>
-<input type="text" name="lastname">
+<input type=name="lastname">
 <br><br>
 <input type="submit">
 </form> </h2>
