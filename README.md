@@ -24,8 +24,7 @@ User password:<br>
   Last name:<br>
   <input type="text" name="lastname">
 </form>
-<h3>Radio Buttons</h3>
-<p>The <strong>input type="radio"</strong> defines a radio button:</p>
+
 
 <form action="/action_page.php">
   <input type="radio" name="gender" value="male" checked> Male<br>
@@ -33,7 +32,7 @@ User password:<br>
   <input type="radio" name="gender" value="other"> Other<br><br>
   <input type="submit">
 </form> 
-</h2>
+
 <h4> Besh kori bat kaio</h4>
 <p>ar kita korrae:</p>
 <a href="https://www.shutterstock.com/search/bangladesh+fish">Fish</a>
