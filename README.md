@@ -4,7 +4,7 @@
   
 <h1 style="color:blue;">we are strong</h1>
 <h2>Balatike kham koro</h2>
-<h2>Text Input
+<h2>your name please
 
 <form action="/action_page.php">
 First name:<br>
