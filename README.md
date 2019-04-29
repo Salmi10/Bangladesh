@@ -5,13 +5,14 @@
 <h1 style="color:blue;">we are strong</h1>
 <h2>Balatike kham koro</h2>
 
-
-<form>
-  First name:<br>
-  <input type="text" name="firstname">
-  <br>
-  Last name:<br>
-  <input type="text" name="lastname">
+<form action="/action_page.php">
+First name:<br>
+<input type="text" name="firstname">
+<br>
+Last name:<br>
+<input type="text" name="lastname">
+<br><br>
+<input type="submit">
 </form>
 <p>ar kita korrae:</p>
 <a href="https://www.shutterstock.com/search/bangladesh+fish">Fish</a>
