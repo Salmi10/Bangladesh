@@ -1,7 +1,7 @@
 # Nabila
 <html>
 <body>
-<h1> style="background-color:Tomato;">ollla</h1>
+<h1> style ="color tomato" </h1>
 <h2>all goods</h2>
 <p>hope you are doing well:</p>
 
