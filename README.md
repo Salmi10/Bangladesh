@@ -5,7 +5,18 @@
 <h1 style="color:blue;">we are strong</h1>
 <h2>Balatike kham koro</h2>
 <h2>your name please 
+<h2>Password field</h2>
+<p>The <strong>input type="password"</strong> defines a password field:</p>
 
+<form action="">
+User name:<br>
+<input type="text" name="userid">
+<br>
+User password:<br>
+<input type="password" name="psw">
+</form>
+
+<p>The characters in a password field are masked (shown as asterisks or circles).</p>
 
 <form>
   First name:<br>
