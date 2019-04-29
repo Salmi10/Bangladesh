@@ -7,6 +7,9 @@
 <a href="https://www.shutterstock.com/search/bangladesh+fish">Fish</a>
 
 <p style="color:red;">shob bala ni </p>
+<html lang="bn">
+...
+</html>
 
 <div class="cities">
   <h2>Bangladesh</h2>
