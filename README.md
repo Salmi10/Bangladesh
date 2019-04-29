@@ -16,7 +16,6 @@ User password:<br>
 <input type="password" name="psw">
 </form>
 
-<p>The characters in a password field are masked (shown as asterisks or circles).</p>
 
 <form>
   First name:<br>
@@ -29,12 +28,9 @@ User password:<br>
 <form action="/action_page.php">
   <input type="radio" name="gender" value="male" checked> Male<br>
   <input type="radio" name="gender" value="female"> Female<br>
-  <input type="radio" name="gender" value="other"> Other<br><br>
-  <input type="submit">
+ 
 </form> 
 
-<h4> Besh kori bat kaio</h4>
-<p>ar kita korrae:</p>
 <a href="https://www.shutterstock.com/search/bangladesh+fish">Fish</a>
 
 <p style="color:red;">shob bala ni </p>
