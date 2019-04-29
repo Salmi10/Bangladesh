@@ -15,7 +15,13 @@ User name:<br>
 User password:<br>
 <input type="password" name="psw">
 </form>
-
+<form action="/action_page.php">
+<input type="checkbox" name="what is gold" value="oro">I have a bike
+<br>
+<input type="checkbox" name="what you want" value="everything">I have a car 
+<br><br>
+<input type="submit">
+</form> 
 
 <form>
   First name:<br>
