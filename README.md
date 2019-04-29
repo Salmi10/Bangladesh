@@ -7,12 +7,11 @@
 <h2>your name please 
 
 
-<input type=name="firstname">
-<br>
-Last name:<br>
-<input type=name="lastname">
-<br><br>
-<input type="submit">
+<form>
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname">
 </form>
 </h2>
 <h4> Besh kori bat kaio</h4>
