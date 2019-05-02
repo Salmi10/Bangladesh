@@ -88,7 +88,7 @@
          <!-- Media section start -->
         <div class="section">
             <h1><span>My Media</span></h1>
-            <iframe height="150" width="300" src="https://www.youtube.com/watch</iframe>
+            <iframe height="150" width="300" src="https://www.youtube.com/watch?v=atuv-BubXM0&list=RDOJTaGuuetvg&index=2</iframe>
         </div>
         <!-- Media section end -->
         
