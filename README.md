@@ -15,10 +15,8 @@
             <p>
                 Hey! I am learning how to creat website!
             </p>
-            <div class="section">
-            <h1><span>My Media</span></h1>
-            <iframe height="150" width="300" src="https://youtu.be/atuv-BubXM0" allowfullscreen frameborder="0"></iframe>
-        </div>
+            <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/atuv-BubXM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
            
         </div>
         <!-- About Me section end -->
