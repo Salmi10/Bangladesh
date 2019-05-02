@@ -78,7 +78,7 @@
         
         
         
-        <!-- Form section start -->
+        
        <div class="section">
             <h1><span>Contact Me</span></h1>
             
