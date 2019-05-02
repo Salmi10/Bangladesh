@@ -35,7 +35,7 @@
                 </tr>
                 <tr>
                     <td>8-8:30</td>
-                    <td class="selected">Learn</td>
+                    <td class="selected">read</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -44,7 +44,7 @@
                 <tr>
                     <td>9-10</td>
                     <td></td>
-                    <td class="selected">Practice</td>
+                    <td class="selected">abs</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -53,7 +53,7 @@
                     <td>1-1:30</td>
                     <td></td>
                     <td></td>
-                    <td class="selected">Play</td>
+                    <td class="selected">push up</td>
                     <td></td>
                     <td></td>
                 </tr>
@@ -62,7 +62,7 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td class="selected">Code</td>
+                    <td class="selected">run</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -82,12 +82,7 @@
         <!-- My Skills section end -->
         
         
-         <!-- Media section start -->
-        <div class="section">
-            <h1><span>My Media</span></h1>
-            <iframe height="150" width="300" src="https://www.youtube.com/watch?v=atuv-BubXM0&list=RDOJTaGuuetvg&index=2</iframe>
-        </div>
-        <!-- Media section end -->
+        
         
         <!-- Form section start -->
        <div class="section">
@@ -108,4 +103,4 @@
         
     </body>
 </html>
-https://youtu.be/qonmjesinK8
+
