@@ -11,7 +11,7 @@
         
        
         <div class="section">
-            <h1><I'm new learning and progressing</span></h1>
+            <h1>I'm new learning and progressing</h1>
             <p>
                 Hey! I am learning how to creat website! Listen to this recitation amazing!!
             </p>
