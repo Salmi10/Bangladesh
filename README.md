@@ -26,7 +26,7 @@
         
         <!-- My Schedule section start -->
         <div class="section">
-            <h1><span>My Coding Schedule</span></h1>
+            <h1><span>My time to improve yoursel</span></h1>
             <table>
                 <tr>
                     <th>Day</th>
@@ -81,28 +81,14 @@
         <!-- My Schedule section end -->
         
         
-        <!-- My Skills section start -->
-        <div class="section">
-            <h1><span>My Skills</span></h1>
-            <ul>
-                <li>HTML <br />
-                    <progress min="0" max="100" value="80"></progress>
-                </li>
-                <li>JavaScript <br />
-                    <progress min="0" max="100" value="50"></progress>
-                </li>
-                <li>Python <br />
-                    <progress min="0" max="100" value="30"></progress>
-                </li>
-            </ul>
-        </div>
+       
         <!-- My Skills section end -->
         
         
          <!-- Media section start -->
         <div class="section">
             <h1><span>My Media</span></h1>
-            <iframe height="150" width="300" src="https://www.youtube.com/watch?v=yETv5OO3OGU&list=RDyETv5OO3OGU&start_radio=1" allowfullscreen frameborder="0"></iframe>
+            <iframe height="150" width="300" src="https://www.youtube.com/watch</iframe>
         </div>
         <!-- Media section end -->
         
