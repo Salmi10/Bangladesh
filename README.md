@@ -15,7 +15,7 @@
             <p>
                 Hey! I am learning how to creat website!
             </p>
-            <p class="quote">"Declare variables, not war"</p>
+           
         </div>
         <!-- About Me section end -->
         
@@ -34,7 +34,7 @@
                 <tr>
                     <td>8-8:30</td>
                     <td class="selected">read</td>
-                    <td> class="selected"></td>
+                    <td> class="selected">football</td>
                     <td></td>
                     <td></td>
                     <td></td>
