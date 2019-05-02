@@ -7,11 +7,9 @@
     </head>
     
     <body>
-        <!-- header start -->
+      
         
-        <!-- header end -->
-        
-        <!-- About Me section start -->
+       
         <div class="section">
             <h1><span>About Me</span></h1>
             <p>
@@ -23,7 +21,7 @@
         
         <!-- My Schedule section start -->
         <div class="section">
-            <h1><span>My time to improve yoursel</span></h1>
+            <h1><span>time to improve yoursel</span></h1>
             <table>
                 <tr>
                     <th>Day</th>
@@ -36,7 +34,7 @@
                 <tr>
                     <td>8-8:30</td>
                     <td class="selected">read</td>
-                    <td></td>
+                    <td> class="selected"></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -58,7 +56,7 @@
                     <td></td>
                 </tr>
                 <tr>
-                    <td>3:45-5</td>
+                    <td>3:45-4:30</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -66,20 +64,16 @@
                     <td></td>
                 </tr>
                 <tr>
-                    <td>6-6:15</td>
+                    <td>2-6:15</td>
                     <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td class="selected">Discuss</td>
+                    <td class="selected">relax</td>
                 </tr>
             </table>
         </div>
-        <!-- My Schedule section end -->
-        
-        
        
-        <!-- My Skills section end -->
         
         
         
