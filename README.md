@@ -18,7 +18,7 @@
         <div class="section">
             <h1><span>About Me</span></h1>
             <p>
-                Hey! I'm <strong>Alex</strong>. Coding has changed my world. It's not just about apps. Learning to code gave me <i>problem-solving skills</i> and a way to communicate with others on a technical level. I can also develop websites and use my coding skills to get a better job. And I learned it all at <strong>SoloLearn</strong> where they build your self-esteem and keep you motivated. Join me in this rewarding journey. You'll have fun, get help, and learn along the way!
+                Hey! I am learning how to creat website!
             </p>
             <p class="quote">"Declare variables, not war"</p>
         </div>
@@ -102,7 +102,7 @@
          <!-- Media section start -->
         <div class="section">
             <h1><span>My Media</span></h1>
-            <iframe height="150" width="300" src="https://www.youtube.com/embed/Q6_5InVJZ88" allowfullscreen frameborder="0"></iframe>
+            <iframe height="150" width="300" src="https://www.youtube.com/watch?v=yETv5OO3OGU&list=RDyETv5OO3OGU&start_radio=1" allowfullscreen frameborder="0"></iframe>
         </div>
         <!-- Media section end -->
         
