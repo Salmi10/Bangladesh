@@ -35,15 +35,15 @@
                     <td>8-8:30</td>
                     <td class="selected">read</td>
                     <td class="selected">football</td>
+                    <td class="selected">study</td>
                     <td></td>
                     <td></td>
-                    <td></td>
-                </tr>
+                </tr
                 <tr>
                     <td>9-10</td>
                     <td></td>
                     <td class="selected">abs</td>
-                    <td></td>
+                    <td class="selected">read usuful books</td>
                     <td></td>
                     <td></td>
                 </tr>
