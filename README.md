@@ -11,9 +11,9 @@
         
        
         <div class="section">
-            <h1><span>About Me</span></h1>
+            <h1><I'm new learning and progressing</span></h1>
             <p>
-                Hey! I am learning how to creat website!
+                Hey! I am learning how to creat website! Listen to this recitation amazing!!
             </p>
             <div>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/atuv-BubXM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -40,7 +40,7 @@
                     <td class="selected">study</td>
                     <td></td>
                     <td></td>
-                </tr
+                </tr>
                 <tr>
                     <td>9-10</td>
                     <td></td>
