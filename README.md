@@ -23,7 +23,7 @@
         
         <!-- My Schedule section start -->
         <div class="section">
-            <h1><span>time to improve yoursel</span></h1>
+            <h1><span>time to improve yourself</span></h1>
             <table>
                 <tr>
                     <th>Day</th>
