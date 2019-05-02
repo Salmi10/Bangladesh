@@ -34,7 +34,7 @@
                 <tr>
                     <td>8-8:30</td>
                     <td class="selected">read</td>
-                    <td>football</td>
+                    <td class="selected">football</td>
                     <td></td>
                     <td></td>
                     <td></td>
