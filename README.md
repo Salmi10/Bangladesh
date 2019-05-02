@@ -126,28 +126,9 @@
                 <input type="submit" value="SEND" class="submit" />
             </form>
         </div>
-        <!-- Form section end -->
         
-        <!-- Contacts section start -->
-        <div class="section" id="contacts">
-            <h1><span>Follow Me</span></h1>
-            <div>
-                <a href="https://www.sololearn.com/" target="_blank">
-                    <img alt="SoloLearn" src="https://www.sololearn.com/Uploads/icons/sololearn.png" />
-                </a>
-                <a href="#">
-                    <img alt="Facebook" src="https://www.sololearn.com/Uploads/icons/facebook.png"/>
-                </a>
-                <a href="#">
-                    <img alt="Twitter" src="https://www.sololearn.com/Uploads/icons/twitter.png" />
-                </a>
-            </div>
-        </div>
-        <!-- Contacts section end -->
         
-        <div class="copyright">
-            &copy; 2017 My Blog. All rights reserved.
-        </div>
+       
         
     </body>
 </html>
