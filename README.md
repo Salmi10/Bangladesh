@@ -72,7 +72,7 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
+                    <td class="study"></td>
                     <td class="selected">relax</td>
                 </tr>
             </table>
