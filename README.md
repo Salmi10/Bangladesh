@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>Salman</title>
@@ -99,6 +99,5 @@
         
        
         
-    </body>
-</html>
+
 
